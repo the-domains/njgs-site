@@ -1,0 +1,14 @@
+layout_spectrum: 0.8512812482658774
+typography_spectrum: 0.7062430735677481
+color:
+  brandStrength: 0.7016015262342989
+  lightness: 0.02644913736730814
+  saturation: 0.9689980910625309
+  rhythmicContrast: 0.971623697783798
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: NJG's Site
